@@ -1,0 +1,35 @@
+
+
+
+
+
+<html>
+<head>
+<title> linl</title>
+</HEAD>
+<BODY>
+
+<H1 ALIGN=CENTER> ANNUAL PERFORMAENCE</H1>
+<HR SIZE=12 COLOR=GREEN>
+<img src="C:\Users\Public\Pictures\Sample Pictures\Tulips.jpg" width="10% height="10%>
+<h2  >BG INSTITUTE OF MANAGEMENT STUDIES</h2>
+<HR  COLOR=YELLOW 
+<br>
+<ol type="1">
+<li>M.PHIL</li>
+<li>M.COM
+<ul type="FIRST SEMESTER ">
+<li>FIRST DIVISION</li>
+<li>SECOND DIVISION</li>
+</ul>
+</li>
+<li>B.COM(H)
+<ul type="FIFTH SEMESTER">
+<li>FIRST DIVISION</li>
+<li>FAILED</li>
+</ul>
+</li>
+</ol>
+<a href="project6.html">ANNUAL PERFORMENCE</a>
+</BODY>
+</html>

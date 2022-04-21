@@ -1,0 +1,45 @@
+
+
+
+
+
+<html>
+<head>
+<TITLE>LINL</TITLE>
+<BODY>
+
+<h2 ALIGN=CENTER>ANNUAL PERFORMANCE</h2>
+<HR COLOR=YELLOW SIZE=9>
+<table border="12 cellspacing="8" cellpadding="8" align="right" valign="bottom">
+<tr>
+<th colspan="4">RESULT</th>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp</td>
+<td>2014</td>
+<td>2015</td>
+<td>2016</td>
+</tr>
+<tr>
+<th>M.PHIL</th>
+<td>1000</td>
+<td>1190</td>
+<td>1250</td>
+</tr>
+<tr>
+<th>M.COM</th>
+<td>1050</td>
+<td>1200</td>
+<td>1400</td>
+</tr>
+<tr>
+<th>B.COM(H)</th>
+<td>890</td>
+<td>1200</td>
+<td>1250</td>
+</tr>
+</table>
+<p>
+<a href=project5.html>GO TO NEXT PAGE</a></p>
+<BODY>
+</html>
